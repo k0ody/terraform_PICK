@@ -21,13 +21,13 @@ Antes de começar, certifique-se de ter os seguintes itens:
 1. Clone o repositorio para seu ambiente local:
 
 ```
-git clone
+git@github.com:k0ody/terraform_PICK.git
 ```
 
 2. Acesse o diretorio do projeto:
 
 ```
-cd repositorio
+cd terraform_PICK
 ```
 
 3. Configurando as credenciais:
@@ -37,7 +37,6 @@ Existe algumas formas de passar a credencial, nesse repositorio vou mostrar como
 ```
 export AWS_ACCESS_KEY_ID="SUA_ACCESS_KEY_AQUI"
 export AWS_SECRET_ACCESS_KEY="SUA_SECRET_KEY_AQUI"
-
 ```
 Certifique-se de substituir SUA_ACCESS_KEY_AQUI e SUA_SECRET_KEY_AQUI pelas suas credenciais reais.
 
